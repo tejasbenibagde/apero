@@ -1,0 +1,11 @@
+{
+  "name": "apero-server",
+  "version": "1.0.0",
+  "description": "Apero: Align. Innovate. Thrive.",
+  "main": "src/server.ts",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "author": "Tejas Benibagde",
+  "license": "MIT"
+}
